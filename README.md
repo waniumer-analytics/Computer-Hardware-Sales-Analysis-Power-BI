@@ -78,6 +78,6 @@ Recommendation:     Scale operations and marketing in these high-margin areas.
 - Communicating findings through interactive dashboards and visuals.
 
                                                               LINKS
-  LINKEID:-
+  LINKEID:-www.linkedin.com/in/waniumer-analytics
   GITHUB:- https://github.com/waniumer-analytics/PowerBi-Sales-Analysis--Computer-hardware-business/blob/main/README.md 
   PORFOLIO WEBSITE:- 
