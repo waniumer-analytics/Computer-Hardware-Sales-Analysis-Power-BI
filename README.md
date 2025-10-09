@@ -1,8 +1,8 @@
                                                      Sales Insights Dashboard – Computer Hardware Business
 
                                                                  Project Overview
-This project focuses on a **computer hardware company** that is struggling to adapt to a dynamically changing market.  
-To address this, the **Sales Director** decided to invest in a **Power BI-based data analysis project** to gain real-time insights into sales performance, profitability, and customer trends.  
+This project focuses on a computer hardware company that is struggling to adapt to a dynamically changing market.  
+To address this, the Sales Director decided to invest in a Power BI-based data analysis project to gain real-time insights into sales performance, profitability, and customer trends.  
 
                                                      The objective of this project is to:-
 1.  Analyze historical sales data across regions, customers, and products  .
@@ -79,5 +79,5 @@ Recommendation:     Scale operations and marketing in these high-margin areas.
 
                                                               LINKS
   LINKEID:-www.linkedin.com/in/waniumer-analytics
-  GITHUB:- https://github.com/waniumer-analytics/PowerBi-Sales-Analysis--Computer-hardware-business/blob/main/README.md 
+  GITHUB:- https://github.com/waniumer-analytics 
   PORFOLIO WEBSITE:- 
