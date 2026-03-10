@@ -79,5 +79,6 @@ Recommendation:     Scale operations and marketing in these high-margin areas.
 
                                                               LINKS
   LINKEID:-www.linkedin.com/in/waniumer-analytics
-  GITHUB:- https://github.com/waniumer-analytics 
-  PORFOLIO WEBSITE:- 
+  
+  PORFOLIO :- 
+https://codebasics.io/portfolio/WANI-UMER
