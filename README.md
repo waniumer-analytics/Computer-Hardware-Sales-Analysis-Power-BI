@@ -7,7 +7,7 @@
 - This project focuses on a computer hardware company that is struggling to adapt to a dynamically changing market.  
 - To address this, the Sales Director decided to invest in a Power BI-based data analysis project to gain real-time insights into sales performance, profitability, and customer trends.  
 
-                                    PROJECT OBJECTIVET.
+                                    PROJECT OBJECTIVE.
   
 1.  Analyze historical sales data across regions, customers, and products  .
 2.  Identify high-performing and underperforming markets  .
